@@ -2,8 +2,8 @@ This is a library for the MLX90614 temperature sensor
 
   Designed specifically to work with the MLX90614 sensors in the
   adafruit shop
-  ----> https://www.adafruit.com/products/1748
-  ----> https://www.adafruit.com/products/1749
+  ----> hhttp://digispark.ir/mlx90614-%D8%B3%D9%86%D8%B3%D9%88%D8%B1-%D8%AF%D9%85%D8%A7%DB%8C-%D9%85%D8%A7%D8%AF%D9%88%D9%86-%D9%82%D8%B1%D9%85%D8%B2-%D8%A2%D8%B1%D8%AF%D9%88%DB%8C%D9%86%D9%88/
+  ----> http://digispark.ir/mlx90614-%D8%B3%D9%86%D8%B3%D9%88%D8%B1-%D8%AF%D9%85%D8%A7%DB%8C-%D9%85%D8%A7%D8%AF%D9%88%D9%86-%D9%82%D8%B1%D9%85%D8%B2-%D8%A2%D8%B1%D8%AF%D9%88%DB%8C%D9%86%D9%88/
 
 These sensors use I2C to communicate, 2 pins are required to interface
 Adafruit invests time and resources providing this open source code, 
